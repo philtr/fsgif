@@ -1,0 +1,2 @@
+#!/bin/bash
+url="http://gif.h4q.me/?url=$1?dl=1"; echo $url; echo $url | pbcopy
