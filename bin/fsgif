@@ -1,2 +1,2 @@
 #!/bin/bash
-url="http://gif.h4q.me/?url=$1?dl=1"; echo $url; echo $url | pbcopy
+url="http://gif.h4q.me/?url=$1?dl=1"; echo "Copied to clipboard: $url"; echo $url | pbcopy
