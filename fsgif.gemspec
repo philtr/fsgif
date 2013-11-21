@@ -1,6 +1,6 @@
 Gem::Specification.new do |spec|
   spec.name          = "fsgif"
-  spec.version       = "0.3.0"
+  spec.version       = "0.4.0"
   spec.authors       = ["Phillip Ridlen"]
   spec.email         = ["p@rdln.net"]
   spec.description   = %q{View images full screen your browser}

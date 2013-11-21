@@ -27,6 +27,12 @@ To create a link for a gif:
 fsgif http://url.to/image.gif
 ```
 
+To create a link using a custom hostname:
+
+```
+fsgif -h customhostname.com http://url.to/image.gif
+```
+
 ## Web Service
 
 ### Requirements
